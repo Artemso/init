@@ -1,0 +1,4 @@
+Only registered users can login:
+
+Using graphic: enter the username and password in the fields.
+Using ssh: user_name@ip_address; enter password when prompt.

@@ -1,0 +1,4 @@
+The RSA Keys are located at /etc/ssh
+
+Private key: ssh_host_rsa_key
+Public key: ssh_host_rsa_key.pub
